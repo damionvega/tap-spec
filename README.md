@@ -1,13 +1,16 @@
-# tap-spec [![NPM version](https://img.shields.io/npm/v/tap-spec.svg?style=flat-square)](https://www.npmjs.com/package/tap-spec) [![NPM download count](https://img.shields.io/npm/dm/tap-spec.svg?style=flat-square)](https://www.npmjs.com/package/tap-spec)
-
 Formatted TAP output like Mocha's spec reporter
 
 ![iterm - 2 bash - may 29 2015 at 10 17 am screen shot](https://cloud.githubusercontent.com/assets/974723/7888261/03366236-05ec-11e5-9f94-d9c2707526b7.png)
 
 ## Install
-
+This fork:
 ```
-npm install tap-spec --save-dev
+npm install --save-dev git+https://github.com/damionjn/tap-spec.git
+```
+
+Original tap-spec:
+```
+npm install --save-dev tap-spec
 ```
 
 ## Usage
