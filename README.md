@@ -1,6 +1,6 @@
 Formatted TAP output like Mocha's spec reporter
 
-![iterm - 2 bash - may 29 2015 at 10 17 am screen shot](https://cloud.githubusercontent.com/assets/974723/7888261/03366236-05ec-11e5-9f94-d9c2707526b7.png)
+![screenshot](https://cloud.githubusercontent.com/assets/7221494/11996871/285614fc-aa2a-11e5-9d0d-9941d625ed0d.png)
 
 ## Install
 This fork:
@@ -8,7 +8,7 @@ This fork:
 npm install --save-dev git+https://github.com/damionjn/tap-spec.git
 ```
 
-Original tap-spec:
+Original [tap-spec](https://github.com/scottcorgan/tap-spec):
 ```
 npm install --save-dev tap-spec
 ```
